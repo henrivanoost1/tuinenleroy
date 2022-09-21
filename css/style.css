@@ -103,7 +103,7 @@ html {
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #666;
-  font-weight: 400;
+  /* font-weight: 400; */
   width: 100% !important;
   height: 100% !important;
 }
