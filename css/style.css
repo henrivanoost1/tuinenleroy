@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @font-face {
   font-family: 'comoregular';
-  src: url('tuinenleroy/fonts/fonts/Como.woff2') format('woff2'),
-       url('tuinenleroy/fonts/fonts/Como.woff') format('woff'),
-       url('tuinenleroy/fonts/fonts/Como.ttf') format('truetype');
+  src: url('fonts/fonts/como-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -94,7 +93,7 @@
 }
 body,
 html {
-  font-family: "Como", sans-serif;
+  font-family: "comoregular", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #666;
@@ -104,6 +103,7 @@ html {
 }
 .logo{
   font-family: 'Pacifico', sans-serif;
+  font-weight: 300;
 }
 
 .logo2{
