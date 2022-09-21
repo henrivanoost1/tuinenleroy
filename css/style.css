@@ -1,7 +1,99 @@
-@import url("https://use.typekit.net/unb6toi.css");
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@font-face {
+  font-family: 'comoregular';
+  src: url('fonts/fonts/como-bold-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comobold';
+  src: url('fonts/fonts/como-bold-webfont.woff2') format('woff2'),
+       url('fonts/fonts/-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comoextra_bold';
+  src: url('fonts/fonts/como-extrabold-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-extrabold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comoextra_light';
+  src: url('fonts/fonts/como-extralight-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-extralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comoheavy';
+  src: url('fonts/fonts/como-heavy-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-heavy-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comolight';
+  src: url('fonts/fonts/como-light-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comomedium';
+  src: url('fonts/fonts/como-medium-webfont.woff2') format('woff2'),
+       url('como-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'comosemi_bold';
+  src: url('fonts/fonts/como-semibold-webfont.woff2') format('woff2'),
+       url('fonts/fonts/como-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 body,
 html {
-  font-family: "Como", sans-serif;
+  font-family: "comoregular", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #666;
