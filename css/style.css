@@ -101,6 +101,14 @@ html {
   width: 100% !important;
   height: 100% !important;
 }
+.logo{
+  font-family: 'Pacifico', sans-serif;
+}
+
+.logo2{
+  font-family: 'Pacifico', sans-serif;
+  font-size: larger;
+}
 h2 {
   margin: 0 0 20px 0;
   font-weight: 600;
